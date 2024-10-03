@@ -31,7 +31,6 @@ This is a simple Todo List API built with Django and Django REST Framework (DRF)
 
 ![image](https://github.com/user-attachments/assets/beed9f8a-b384-4a6a-ba30-b8a08fb55abe)
 
-**Relevant models**
 ![image](https://github.com/user-attachments/assets/adfde247-309c-43c3-b463-2b8ee81f173c)
 
 
