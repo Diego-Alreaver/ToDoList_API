@@ -1,6 +1,6 @@
 # TodoList API
 
-This is a simple Todo List API built with Django and Django REST Framework (DRF). The project allows users to create an account, log in, and manage their personal todo tasks. Each user can create, view, update, and delete their own tasks while using JWT-based authentication to secure the endpoints.
+This is a Todo List API built with Django and Django REST Framework (DRF). The project allows users to create an account, log in, and manage their personal todo tasks. Each user can create, view, update, and delete their own tasks while using JWT-based authentication to secure the endpoints.
 
 ## Features
 
